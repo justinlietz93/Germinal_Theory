@@ -1,5 +1,7 @@
 # Germinal Theory
 
+*Radical non-attachment to form in service of radical attachment to truth.*
+
 ## A Stance Toward the Nature of Reality
 
 **Version:** 1.0
@@ -53,3 +55,7 @@ It is the recognition that every problem has a nature—a shape, a tendency, a d
 ---
 
 *"Find the nature. Work with it. Get out of the way."*
+
+*"Keep nothing except what remains true after contact."*
+
+*Radical non-attachment to form in service of radical attachment to truth.*
