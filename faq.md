@@ -24,3 +24,7 @@ Zola's *Germinal* is about coal miners—invisible, underground, doing foundatio
 The name comes from the Latin *germen*—meaning sprout, bud, embryo, seed. It captures the idea of the foundational, generative core from which everything grows.
 ## What is the tagline?
 > *Find the nature. Work with it. Get out of the way.*
+## What does "Trust" mean if it's not passive?
+Trust is a measure of how close your solution is to the generative essence of the problem. The closer you are, the more you can rely on the system's own nature, and the less you need to control it. See `notes/distance_from_essence.md` for the full argument.
+## Is Germinal Theory anti-engineering?
+No. It distinguishes between an impositional posture (which it rejects) and a germinal posture that can be practiced by the best engineers, blacksmiths, and designers. See `notes/engineering_two_postures.md`.

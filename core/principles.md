@@ -45,12 +45,15 @@ The system has its own momentum. Your role is to work with that momentum—to gu
 **Anti-pattern:** Forcing a feature that the system isn't ready for.
 ## 5. Trust
 **The nature is already there. You do not need to invent it.**
-Trust the process. Trust the system. Trust the germ. It knows what to do. Your job is to get out of the way.
+Trust is not passive hope. It is a **calibrated certainty**—the recognition that a foundation is solid enough to act on without constant re-verification. You trust the sun will rise tomorrow. You trust that DNA is real. You trust that 1 + 1 = 2. You cannot prove these things from scratch in every moment, but their proximity to the essence of reality is so high that the resolution is nearly perfect. You exchange proof for trust, and you build.
+The more artificial primitives you stack between the germ and your outcome, the more slack accumulates, and the weaker your trust can be. Trust is a function of **distance from the generative essence**. A simple system far from the essence is untrustworthy. A complex system built tight to the essence can be trusted completely.
+**Trust does not mean doing nothing.** It means allocating your finite certainty to the foundation closest to the germ, so you can act decisively where it matters, and stop second-guessing what is already reliable.
 **In practice:**
-- Let go of the need to control.
-- Trust that the system will grow into its own shape.
-- Do not over-engineer or over-manage.
-- Be patient.
-- Step back and watch.
-**The essence:** Trust the germ. It knows what to do.
-**Anti-pattern:** Building a new foundation when the old one is still intact.
+- Let go of the need to control what is already near the essence.
+- Minimize the distance between the solution and the problem's nature so that trust remains high.
+- Do not over-engineer or over-manage—each unnecessary layer reduces trust.
+- Be patient. Let the system exhibit its own shape.
+- Step back and watch, but remain attentive. Trust is a discipline, not an abdication.
+**The essence:** Trust the germ. It knows what to do. And make sure you haven't buried it under layers of distance.
+**Anti-pattern:** Building a new foundation when the old one is still intact. Adding complexity that moves the solution further from the essence and then compensating with control.
+*"Find the nature. Work with it. Get out of the way."*
